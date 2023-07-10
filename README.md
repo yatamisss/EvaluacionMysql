@@ -1,2 +1,2 @@
-# EvaluacionMysql
+# evaluacionMysql
 Segundo caso practico
